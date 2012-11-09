@@ -62,6 +62,10 @@ PRODUCT_PACKAGES += \
      GalaxyS3Settings \
      SamsungServiceMode
 
+# Camera
+PRODUCT_PACKAGES += \
+    camera.msm8960
+
 # GPS
 #PRODUCT_PACKAGES += \
 #	gps.msm8960
